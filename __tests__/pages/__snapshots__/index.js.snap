@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index page Matches previous snapshot 1`] = `
+<button
+  className="button-l4um5n-0 cftsCa"
+  onClick={[Function]}
+>
+  Next page
+</button>
+`;
