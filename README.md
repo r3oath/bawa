@@ -1,7 +1,13 @@
 # Next.js Boilerplate
 
+## Dependencies
+
+- [Yarn](https://yarnpkg.com/lang/en/)
+- [NVM](https://github.com/creationix/nvm)
+
 ## Setup
 
+1. Run `nvm use`
 1. Run `yarn`
 
 ## Testing
