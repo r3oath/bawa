@@ -1,5 +1,10 @@
 module.exports = {
-  testPathIgnorePatterns: ['<rootDir>/.next/', '<rootDir>/node_modules/'],
+  testPathIgnorePatterns: [
+    '<rootDir>/.next/',
+    '<rootDir>/node_modules/',
+    '<rootDir>/stories/',
+    '<rootDir>/.storybook/',
+  ],
   moduleNameMapper: {
     '@app/(.*)$': '<rootDir>/$1',
     '@mocks/(.*)$': '<rootDir>/__mocks__/$1',
