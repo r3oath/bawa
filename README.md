@@ -22,3 +22,7 @@
 ## Lint/check JavaScript
 
 1. Run `yarn lint`
+
+## Viewing the styleguide
+
+1. Run `yarn storybook`
